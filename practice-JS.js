@@ -1,12 +1,12 @@
-const LOCAL_FORECAST = {
-  yesterday: { low: 61, high: 75 },
-  today: { low: 64, high: 77 },
-  tomorrow: { low: 68, high: 80 }
-};
+function sockMerchant(n, ar) {
+  var arr = [];
+  var count = {};
+  ar.forEach(function(i) { count[i] = (count[i]||0) + 1;});
+  //console.log(count);
+  for (let i = 0; i < count.length; i++){
+      console.log(count[i]);
+  }
+  return 0;
+}
 
-// Only change code below this line
-  
-const lowToday = LOCAL_FORECAST.today.low;
-const highToday = LOCAL_FORECAST.today.high;
-
-// Only change code above this line
+sockMerchant(9,[10,20,20,10,10,30,50,10,20]);
