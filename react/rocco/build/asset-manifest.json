@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/React2/static/css/main.f23ee2a2.chunk.css",
+    "main.js": "/React2/static/js/main.fe29d4a0.chunk.js",
+    "main.js.map": "/React2/static/js/main.fe29d4a0.chunk.js.map",
+    "runtime-main.js": "/React2/static/js/runtime-main.63aaa270.js",
+    "runtime-main.js.map": "/React2/static/js/runtime-main.63aaa270.js.map",
+    "static/css/2.31039caa.chunk.css": "/React2/static/css/2.31039caa.chunk.css",
+    "static/js/2.79264902.chunk.js": "/React2/static/js/2.79264902.chunk.js",
+    "static/js/2.79264902.chunk.js.map": "/React2/static/js/2.79264902.chunk.js.map",
+    "index.html": "/React2/index.html",
+    "precache-manifest.687f2eb9ba90fda9d7dc4cd93d016589.js": "/React2/precache-manifest.687f2eb9ba90fda9d7dc4cd93d016589.js",
+    "service-worker.js": "/React2/service-worker.js",
+    "static/css/2.31039caa.chunk.css.map": "/React2/static/css/2.31039caa.chunk.css.map",
+    "static/css/main.f23ee2a2.chunk.css.map": "/React2/static/css/main.f23ee2a2.chunk.css.map",
+    "static/js/2.79264902.chunk.js.LICENSE.txt": "/React2/static/js/2.79264902.chunk.js.LICENSE.txt",
+    "static/media/100px-React.svg.png": "/React2/static/media/100px-React.svg.02fc7434.png",
+    "static/media/AFS-logo.png": "/React2/static/media/AFS-logo.d34fe6a0.png",
+    "static/media/AISS-logo.jpg": "/React2/static/media/AISS-logo.f3b62ec3.jpg",
+    "static/media/CV-English-Rocco-Mangieri.pdf": "/React2/static/media/CV-English-Rocco-Mangieri.31e9677b.pdf",
+    "static/media/DOSSIER-Rocco-Mangieri.pdf": "/React2/static/media/DOSSIER-Rocco-Mangieri.3df34228.pdf",
+    "static/media/FELS-logo.png": "/React2/static/media/FELS-logo.bb32bb85.png",
+    "static/media/IASS-AIS-logo.jpg": "/React2/static/media/IASS-AIS-logo.c5c1f52f.jpg",
+    "static/media/index.css": "/React2/static/media/NotoSerifKR-Medium.55d8ef7a.otf",
+    "static/media/img_not_available.png": "/React2/static/media/img_not_available.cead1c02.png",
+    "static/media/contact.module.css": "/React2/static/media/main-3.4789317c.jpg",
+    "static/media/main-cover.png": "/React2/static/media/main-cover.8ea85770.png",
+    "static/media/about.module.css": "/React2/static/media/main-cover2.e5703caa.jpg",
+    "static/media/work.module.css": "/React2/static/media/main-cover3.9da269d9.jpg",
+    "static/media/bookspapers.module.css": "/React2/static/media/susan-yin-2JIvboGLeho-unsplash.6f0ab60d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63aaa270.js",
+    "static/css/2.31039caa.chunk.css",
+    "static/js/2.79264902.chunk.js",
+    "static/css/main.f23ee2a2.chunk.css",
+    "static/js/main.fe29d4a0.chunk.js"
+  ]
+}
